@@ -13,6 +13,6 @@ The following is my approach in solving RangeForce's YARA-related SOC challange
 ### File description
 
 * intel/strings.txt - pre-defined malware strings
-* rules/malware.yar - pre-defined malware strings
+* rules/malware.yar - generated YARA rule
 * create_rule.py - Python script that reads malware strings & generate corresponding YARA rule
 
