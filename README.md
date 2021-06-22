@@ -3,7 +3,8 @@ Solutions used in passing the YARA challenges of the RangeForce community editio
 
 ## What is YARA?
 It is a CLI pattern matching tool that help malware researches malware researchers to identify and classify malware samples
-Website (https://virustotal.github.io/yara/)
+
+YARA website (https://virustotal.github.io/yara/)
 
 ### File description
 
