@@ -1,12 +1,12 @@
 # YARA 
-Solutions used in passing the YARA challenges of the RangeForce community edition
+My solutions on the RangeForce Community Edition's YARA challenges.
 
 ## What is YARA?
-It is a CLI pattern matching tool that help malware researches malware researchers to identify and classify malware samples
+YARA is a command-line pattern matching tool to help Malware Researchers identify and classigy Malware samples.
 
-YARA website (https://virustotal.github.io/yara/)
+<b>YARA Website</b><br>
+https://virustotal.github.io/yara/
 
 ### File description
-
 * rules/ - YARA challenges solution
 * soc-challenge/ - RangeForce SOC challenge solution
