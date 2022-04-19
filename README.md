@@ -1,5 +1,5 @@
 # YARA 
-My solutions on the <b>RangeForce Community Edition</b>'s YARA challenges.
+Solution(s) to the <b>RangeForce Community Edition</b>'s YARA challenges.
 
 ## What is YARA?
 YARA is a command-line pattern matching tool to help Malware Researchers identify and classigy Malware samples.
